@@ -1,0 +1,128 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    background-color: black;
+    height: 100px;
+}
+.logo{
+    background-image: url(./images/logo.png);
+    background-size: 80%;
+    height: 95px;
+    width: 5%;
+    margin-left: 30px;
+    background-repeat: no-repeat;
+}
+.content{
+    background-image: url(./images/img-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+.header-text{
+    color: #f8fdfd;;
+    position: absolute;
+    font-size: 30px;
+    top: 5%;
+    left:35%;
+    font-weight: bold;
+}
+.conteneur{
+    position: relative;
+    top:10%;
+    left: 30%;
+    height: 60%;
+    width: 40%;
+    background-color: #f8fdfd;
+}
+.conteneur-header{
+    height: 100px;
+    background-color: #3addd6;
+}
+.conteneur-titre{
+    color:#f8fdfd;;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 40px;
+}
+.input-form{
+    height: 60px;
+    margin: 10px 35px;
+}
+.form-controle{
+    width: 100%;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid #818181;
+    padding: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    text-indent: 10px;
+}
+.error-form{
+    width: 100%;
+    color: red;
+    font-size: 10px;
+    font-weight: bold;
+}
+.icon-form{
+    height: 35px;
+    width: 30px;
+    position: relative;
+    left: 96%;
+    top: 50px;
+    
+}
+.icone-form-login{
+    background-image: url(./Icones/ic-login.png);
+    background-repeat: no-repeat;
+}
+.icone-form-pwd{
+    background-image: url(./Icones/ic-password.png);
+    background-repeat: no-repeat;
+}
+.btn-form{
+    margin-top: 40px;
+    padding: 10px;
+    color:#f8fdfd; 
+    background-color: #3addd6;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 1px solid #3addd6 ;
+}
+.link-form{
+    margin-left: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #818181;
+    text-decoration: none;
+}
+.avatar{
+    position: absolute;
+    background-color: #818181;
+    height: 100%;
+    width: 95%;
+    padding: 0px 15px;
+    margin: 10px 20px;
+}
+.conteneur_menu{
+    width: 30%;
+    height: 70%;
+    background-color: #f8fdfd;
+    margin-top: 105px;
+    border-radius: 8px;
+}
+.image{
+    width: 100%;
+    padding: 0px;
+    height: 150px;
+    border-radius: 5px;
+}
+#menu-vertical  ul {
+        width:200px;
+        list-style:none;
+        padding:0px;
+  }
+  

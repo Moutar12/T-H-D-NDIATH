@@ -1,0 +1,76 @@
+.texte{
+    padding: 2%;
+    margin-top: 15px;
+    border-radius: 5px;
+    margin-left: 350px;
+}
+.submit{
+    position: absolute;
+    margin-top: -60px;
+    margin-left: 400px;
+}
+.Input{
+    border: 1px solid #818181;
+    width: 620px;
+    position: absolute;
+    border-radius: 5px;
+    margin-left: 65px;
+    margin-top: 20px;
+    text-indent: 15px;
+    
+}
+#jeu{
+    border: 1px solid aqua;
+    width: 55px;
+    height: 30px;
+    margin-left: 15px;
+}
+.nbre{
+    font-size: 15px;
+    font-weight: bold;
+    color: #818181;
+}
+#submit{
+    font-size: 20px;
+    font-weight: bold;
+    background-color: aqua;
+    height: 35px;
+}
+h3{
+    font-size: 15px;
+    font-weight: bold;
+    color: #818181;
+}
+input[type=checkbox]{
+    width: 25px;
+    height: 25;
+      background-color:  aqua;
+    margin-left: 15px;
+}
+input[type=radio]{
+  width: 25px;
+  height: 25;
+  border: 1px solid aqua;
+  margin-left: 15px;
+}
+.label{
+    color: black;
+    font-weight: bold;
+}
+.suivant{
+    position: absolute;
+    margin-top: 465px;
+    margin-left: 560px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: aqua;
+}
+.formulaire{
+    position: absolute;
+    width: 850px;
+    height: 590px;
+    margin-left: 410px;
+    margin-top: 30px;
+    background: #f8fdfd;
+    border-radius: 5px;
+}

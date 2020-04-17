@@ -1,0 +1,93 @@
+.inscription{
+    font-weight: bold;
+    text-indent: 10px;
+  }
+  .propos{
+    text-indent: 10px;
+    color: #818181;
+  }
+  hr{
+      width: 50%;
+      margin-left: -0px;
+  }
+  label{
+      margin-left: 20px;
+    color: #818181;
+  }
+  input[type=text]{
+    margin-left: 10px;
+    width: 50%;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid aqua;
+  }
+  input[type=password]{
+    margin-left: 10px;
+    width: 50%;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid aqua;
+  }
+.fileinput-button {
+    position: relative;
+    overflow: hidden;
+  }
+  span{
+    background-color: aqua;
+    margin-top: -20px;
+    margin-left: 130px;
+    position: absolute;
+    width: 160px;
+    height: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: -15px;
+    color:#f8fdfd; 
+  }
+  .fileinput-button input {
+    position: absolute;
+    top: 0;
+    left: 15px;
+    margin: 0;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    transform: translate(-300px, 0) scale(4);
+    direction: ltr;
+   
+  }
+  .fileupload-buttonbar .btn,
+  .fileupload-buttonbar .toggle {
+    margin-bottom: 5px;
+  }
+  button[type=submit]{
+      margin-top: 25px;
+      position: absolute;
+      font-size: 20px;
+      font-weight: bold;
+      background-color: aqua;
+      color:#f8fdfd; 
+      height: 35px;
+  }
+  .img_avatar1 ,.img1{
+    width: 190px;
+    height: 190px;
+    border-radius: 100%;
+    position: absolute;
+    margin-top: -370px;
+    border: 3px solid #818181;
+    margin-left: 450px;
+  }
+  .avatar_admin{
+    margin-top: -200px;
+    margin-left: 630px;
+    width: 200px;
+  }
+  .formulaire{
+    margin-top: 45px;
+    margin-left: 500px;
+    position: absolute;
+    background-color: #f8fdfd;
+    border-radius: 5px;
+    width: 800px;
+    height: 500px;
+    }
